@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Railway_Signal_With_Sensor.ino"
+}
